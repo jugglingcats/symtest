@@ -1,0 +1,2 @@
+# symtest
+Symlink test
